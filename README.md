@@ -14,6 +14,9 @@
 
 ![Apache IOTDB Architecture](https://user-images.githubusercontent.com/25913899/67943956-39c1e800-fc16-11e9-8da2-a662f8246816.png)
 
+## IOT
+### 边缘计算
+[kubeedge](https://github.com/kubeedge/kubeedge) 边缘计算管理开源方案
 
 ## UI
 
